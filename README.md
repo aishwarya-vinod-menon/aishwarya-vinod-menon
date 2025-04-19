@@ -17,4 +17,4 @@ I enjoy building real-time pipelines, solving problems with code, and exploring 
 - Advanced PySpark & DAX
 - Vector databases + LangChain for LLM apps
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/aishwarya-v-menon)
+📫 Connect with me on [LinkedIn] www.linkedin.com/in/aishwarya-v-menon
