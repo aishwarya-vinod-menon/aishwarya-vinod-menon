@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Aishwarya Vinod Menon
 
-<!--
-**aishwarya-vinod-menon/aishwarya-vinod-menon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast with a love for **Data Science**, **Data Engineering**, and **AI** 🤖  
+I enjoy building real-time pipelines, solving problems with code, and exploring machine learning models.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Languages: Python, SQL, Java
+- Tools: PySpark, Kafka, Hive, Power BI, Airflow, MySQL
+- Interests: Recommendation Systems, MLOps, Real-time Data Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🟡 NYC Taxi Data Pipeline (37M+ records, real-time Kafka + Spark)
+- 🔍 Hotel & Restaurant Recommendation Engine (KMeans + KNN)
+- 🧠 Semantic Role Labeling with BERT
+
+## 🌱 Currently Learning
+- Advanced PySpark & DAX
+- Vector databases + LangChain for LLM apps
+
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/aishwarya-v-menon)
