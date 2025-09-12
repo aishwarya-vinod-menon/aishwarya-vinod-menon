@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aishwarya Vinod Menon
 
-I'm a data enthusiast with a love for **Data Science**, **Data Engineering**, and **AI** 🤖  
-I enjoy building real-time pipelines, solving problems with code, and exploring machine learning models.
+Data enthusiast passionate about Data Science, Engineering, and AI 🤖.
+I build real-time pipelines, solve problems with code, and explore machine learning models.
 
 ## 🚀 Tech Stack
 - Languages: Python, SQL, Java
