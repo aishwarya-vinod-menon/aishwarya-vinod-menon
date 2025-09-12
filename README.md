@@ -5,7 +5,7 @@ I build real-time pipelines, solve problems with code, and explore machine learn
 
 ## 🚀 Tech Stack
 - Languages: Python, SQL, Java
-- Tools: PySpark, Kafka, Hive, Power BI, Airflow, MySQL
+- Tools: PySpark, Kafka,Power BI, DBT, Azure DevOps, Github Actions
 - Interests: Recommendation Systems, MLOps, Real-time Data Processing
 
 ## 📌 Projects
