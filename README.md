@@ -25,33 +25,24 @@
 ## 🛠️ Full-Stack Projects
 
 ### 1) Blank Mode (Browser Productivity Extension)
-**What it is:** A Chrome extension that transforms YouTube into a distraction-free, search-first experience by removing recommendation-heavy UI.
+  **What it is:** A Chrome extension that transforms YouTube into a distraction-free, search-first experience by removing recommendation-heavy UI.
 
-**Impact:** Helps users focus by hiding Shorts, autoplay sections, and attention-grabbing suggestions.
-
-**Tech Stack:** JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3, MutationObserver, chrome.storage.local
+  **Impact:** Helps users focus by hiding Shorts, autoplay sections, and attention-grabbing suggestions.
 
 ### 2) Portfolio AI Assistant (RAG Chatbot)
-**What it is:** A full-stack AI assistant that answers questions using resume content, project details, PDFs, and GitHub information.
+  **What it is:** A full-stack AI assistant that answers questions using resume content, project details, PDFs, and GitHub information.
 
-**Impact:** Converts static profile data into an interactive conversational experience.
-
-**Tech Stack:** FastAPI, React, Python, ChromaDB, Sentence Transformers, Retrieval-Augmented Generation (RAG)
+  **Impact:** Converts static profile data into an interactive conversational experience.
 
 ### 3) Information Retrieval Search Engine
-**What it is:** A custom search platform with crawling, indexing, and retrieval pipelines exposed through a searchable frontend.
+  **What it is:** A custom search platform with crawling, indexing, and retrieval pipelines exposed through a searchable frontend.
 
-**Impact:** Demonstrates end-to-end search engineering from data ingestion to query-time relevance.
-
-**Tech Stack:** Apache Nutch, Apache Solr, Python, JavaScript, HTML, CSS
+  **Impact:** Demonstrates end-to-end search engineering from data ingestion to query-time relevance.
 
 ### 4) SQL Data Warehouse
-**What it is:** A layered data warehouse project built for analytics-ready querying and reporting.
+  **What it is:** A layered data warehouse project built for analytics-ready querying and reporting.
 
-**Impact:** Organizes raw and transformed data into reliable models for decision-making.
-
-**Tech Stack:** SQL, ETL Pipelines, Data Modeling, Warehouse Design
-
+  **Impact:** Organizes raw and transformed data into reliable models for decision-making.
 
 ## 💻 Tech Toolbox
 
