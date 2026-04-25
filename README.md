@@ -70,16 +70,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-> Add your GitHub stats cards here:
->
-> - `github-readme-stats`
-> - `streak-stats`
-> - `top-langs`
-
----
-
 ## 🌱 What I Care About
 
 - Building software that is useful in real workflows.
