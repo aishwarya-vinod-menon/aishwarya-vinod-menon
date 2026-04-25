@@ -1,28 +1,124 @@
- ### Software Engineer â€¢ Full-Stack & AI Applications Building useful products with clean backend systems, thoughtful UI, and applied AI. 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](add-your-portfolio-link-here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](add-your-linkedin-link-here) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:add-your-email-here) 
---- ## About Me Iâ€™m a Software Engineer interested in building real-world products across browser tools, full-stack applications, backend systems, and AI-powered search. I like projects that solve clear problems â€” from reducing distraction on the web to making information easier to search, understand, and use. --- ## Featured Projects 
-Blank Mode
-A browser extension that turns YouTube into a search-first experience by hiding recommendations, Shorts, autoplay banners, and distraction-heavy UI.
-Tech: JavaScript, HTML, CSS, Manifest V3, MutationObserver, chrome.storage.local
-View Repository 
-Portfolio AI Assistant
-A full-stack RAG chatbot that answers questions from resume, project, PDF, and GitHub data.
-Tech: FastAPI, React, ChromaDB, Sentence Transformers, Python
-View Repository 
+<h1 align="center">Hi, I'm Aishwarya Vinod Menon 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Applied AI Builder</h3>
 
-Information Retrieval Search Engine
-A custom search engine that crawls, indexes, and retrieves web content through a searchable frontend interface.
-Tech: Apache Nutch, Apache Solr, Python, HTML, CSS, JavaScript
-View Repository 
-SQL Data Warehouse
-A structured data warehouse project using layered data modeling, ETL workflows, and analytics-ready SQL design.
-Tech: SQL, Data Modeling, ETL, Warehouse Design
-View Repository 
+<p align="center">
+  I build end-to-end software products across <b>frontend</b>, <b>backend</b>, <b>data systems</b>, and <b>AI-powered applications</b>.
+</p>
 
---- ## Skills ### Languages 
- 
-### Frameworks & Tools 
- 
-### Areas I Like Working On - Browser extensions and distraction-free product design - Backend APIs and full-stack applications - Applied AI, RAG, semantic search, and retrieval systems - Clean UI, practical tools, and user-focused software --- ## GitHub Stats 
-  
---- ## A Little More - I enjoy building projects that feel useful, not just technically impressive. - Iâ€™m currently focused on improving as a Software Engineer through product-style projects. - I care about clean code, clear interfaces, and practical problem solving. 
+<p align="center">
+  <a href="add-your-portfolio-link-here"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="add-your-linkedin-link-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:add-your-email-here"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I build practical software products that solve real user problems.
+- 🧩 My work spans **full-stack web apps**, **browser tools**, **backend APIs**, **search systems**, and **AI-driven experiences**.
+- 🧠 I enjoy combining product thinking with strong engineering fundamentals.
+- 🎯 Current focus: building scalable, user-friendly full-stack and AI-powered applications.
+
+---
+
+## 🛠️ Full-Stack Projects
+
+### 1) Blank Mode (Browser Productivity Extension)
+**What it is:** A Chrome extension that transforms YouTube into a distraction-free, search-first experience by removing recommendation-heavy UI.
+
+**Impact:** Helps users focus by hiding Shorts, autoplay sections, and attention-grabbing suggestions.
+
+**Tech Stack:** JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3, MutationObserver, chrome.storage.local
+
+🔗 **Repository:** add-your-blank-mode-repo-link-here
+
+---
+
+### 2) Portfolio AI Assistant (RAG Chatbot)
+**What it is:** A full-stack AI assistant that answers questions using resume content, project details, PDFs, and GitHub information.
+
+**Impact:** Converts static profile data into an interactive conversational experience.
+
+**Tech Stack:** FastAPI, React, Python, ChromaDB, Sentence Transformers, Retrieval-Augmented Generation (RAG)
+
+🔗 **Repository:** add-your-portfolio-ai-assistant-repo-link-here
+
+---
+
+### 3) Information Retrieval Search Engine
+**What it is:** A custom search platform with crawling, indexing, and retrieval pipelines exposed through a searchable frontend.
+
+**Impact:** Demonstrates end-to-end search engineering from data ingestion to query-time relevance.
+
+**Tech Stack:** Apache Nutch, Apache Solr, Python, JavaScript, HTML, CSS
+
+🔗 **Repository:** add-your-search-engine-repo-link-here
+
+---
+
+### 4) SQL Data Warehouse
+**What it is:** A layered data warehouse project built for analytics-ready querying and reporting.
+
+**Impact:** Organizes raw and transformed data into reliable models for decision-making.
+
+**Tech Stack:** SQL, ETL Pipelines, Data Modeling, Warehouse Design
+
+🔗 **Repository:** add-your-data-warehouse-repo-link-here
+
+---
+
+## 💻 Tech Toolbox
+
+### Languages
+- Python
+- JavaScript
+- SQL
+- HTML/CSS
+
+### Frameworks & Platforms
+- React
+- FastAPI
+- Chrome Extensions (Manifest V3)
+- Apache Solr
+- Apache Nutch
+
+### Databases & Data
+- ChromaDB
+- Relational SQL Systems
+- ETL/Data Modeling Workflows
+
+### Areas of Strength
+- Full-Stack Application Development
+- REST API Design & Backend Engineering
+- Information Retrieval & Search Systems
+- Applied AI (RAG, embeddings, semantic retrieval)
+- Product-focused UI/UX Implementation
+
+---
+
+## 📈 GitHub Stats
+
+> Add your GitHub stats cards here:
+>
+> - `github-readme-stats`
+> - `streak-stats`
+> - `top-langs`
+
+---
+
+## 🌱 What I Care About
+
+- Building software that is useful in real workflows.
+- Writing clean, maintainable code with clear system boundaries.
+- Creating thoughtful user experiences backed by strong backend architecture.
+
+---
+
+## 🤝 Let's Connect
+
+If you’re interested in collaborating on **full-stack**, **AI**, or **search/data** projects, feel free to connect.
+
+- Portfolio: add-your-portfolio-link-here
+- LinkedIn: add-your-linkedin-link-here
+- Email: add-your-email-here
