@@ -11,7 +11,7 @@
   <a href="mailto:add-your-email-here"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -20,7 +20,7 @@
 - 🧠 I enjoy combining product thinking with strong engineering fundamentals.
 - 🎯 Current focus: building scalable, user-friendly full-stack and AI-powered applications.
 
----
+
 
 ## 🛠️ Full-Stack Projects
 
@@ -31,20 +31,12 @@
 
 **Tech Stack:** JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3, MutationObserver, chrome.storage.local
 
-🔗 **Repository:** add-your-blank-mode-repo-link-here
-
----
-
 ### 2) Portfolio AI Assistant (RAG Chatbot)
 **What it is:** A full-stack AI assistant that answers questions using resume content, project details, PDFs, and GitHub information.
 
 **Impact:** Converts static profile data into an interactive conversational experience.
 
 **Tech Stack:** FastAPI, React, Python, ChromaDB, Sentence Transformers, Retrieval-Augmented Generation (RAG)
-
-🔗 **Repository:** add-your-portfolio-ai-assistant-repo-link-here
-
----
 
 ### 3) Information Retrieval Search Engine
 **What it is:** A custom search platform with crawling, indexing, and retrieval pipelines exposed through a searchable frontend.
@@ -53,10 +45,6 @@
 
 **Tech Stack:** Apache Nutch, Apache Solr, Python, JavaScript, HTML, CSS
 
-🔗 **Repository:** add-your-search-engine-repo-link-here
-
----
-
 ### 4) SQL Data Warehouse
 **What it is:** A layered data warehouse project built for analytics-ready querying and reporting.
 
@@ -64,35 +52,20 @@
 
 **Tech Stack:** SQL, ETL Pipelines, Data Modeling, Warehouse Design
 
-🔗 **Repository:** add-your-data-warehouse-repo-link-here
-
----
 
 ## 💻 Tech Toolbox
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- HTML/CSS
+### Languages : Python, JavaScript, SQL, HTML/CSS
 
-### Frameworks & Platforms
-- React
-- FastAPI
-- Chrome Extensions (Manifest V3)
-- Apache Solr
-- Apache Nutch
+### Frameworks & Platforms: React,  FastAPI, Chrome Extensions (Manifest V3), Apache Solr, Apache Nutch
 
-### Databases & Data
-- ChromaDB
-- Relational SQL Systems
-- ETL/Data Modeling Workflows
+### Databases & Data: ChromaDB, MongoDB, Relational SQL Systems, ETL and Data Modeling
 
 ### Areas of Strength
 - Full-Stack Application Development
 - REST API Design & Backend Engineering
 - Information Retrieval & Search Systems
-- Applied AI (RAG, embeddings, semantic retrieval)
+-  AI (RAG, embeddings, semantic retrieval, Lang chain, Agent Builder)
 - Product-focused UI/UX Implementation
 
 ---
@@ -119,6 +92,3 @@
 
 If you’re interested in collaborating on **full-stack**, **AI**, or **search/data** projects, feel free to connect.
 
-- Portfolio: add-your-portfolio-link-here
-- LinkedIn: add-your-linkedin-link-here
-- Email: add-your-email-here
